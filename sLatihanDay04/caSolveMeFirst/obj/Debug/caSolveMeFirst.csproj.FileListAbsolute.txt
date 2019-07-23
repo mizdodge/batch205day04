@@ -1,0 +1,5 @@
+E:\Batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.exe.config
+E:\Batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.exe
+E:\Batch 205\Day04\sLatihanDay04\caSolveMeFirst\bin\Debug\caSolveMeFirst.pdb
+E:\Batch 205\Day04\sLatihanDay04\caSolveMeFirst\obj\Debug\caSolveMeFirst.exe
+E:\Batch 205\Day04\sLatihanDay04\caSolveMeFirst\obj\Debug\caSolveMeFirst.pdb
